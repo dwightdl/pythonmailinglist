@@ -1,2 +1,3 @@
 # pythonmailinglist
-creating a mailing list using python
+
+A mailing list using Amazon Simple Email Service and python
